@@ -1,4 +1,3 @@
-python
 import re
 
 text = "1. Restaurant - Italian"
