@@ -1,3 +1,5 @@
+import re
+
 text = "2. Ingredients: Tomato, Basil, Mozzarella"
 pattern = r'(.+?): (.+)'
 match = re.match(pattern, text)
