@@ -1,0 +1,10 @@
+import re
+
+text = "1. Restaurant - Italian"
+pattern = r'(.+?) - (.+)'
+match = re.match(pattern, text)
+if match:
+   restaurant_name = match.group(1)
+   cuisine = match.group(2)
+   print("Restaurant Name:", restaurant_name)
+   print("Cuisine:", cuisine)
