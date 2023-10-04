@@ -30,29 +30,25 @@ This project is part of the ALU Hackathon for extracting specific data types fro
 
 We have used Python to implement the data extraction. In the source code, you will find regular expressions corresponding to each data type. The extracted data is then processed as needed.
 
-## Repository Structure
 
-- `src/`: Contains the Python scripts for data extraction.
-- `README.md`: This file, providing an overview of the project.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
-- `LICENSE`: The license for this project.
 
 ## How to Use
 
-1. Clone this repository to your local machine.
-2. Navigate to the `src/` directory.
-3. Run the Python scripts for data extraction.
+1. Clone this repository to your local machine and then navigate it.
+2. Run the Python scripts for data extraction.
 
 ## Team Members
-
-- [Your Name]
-- [Team Member 2]
-- [Team Member 3]
+-Josiane Ishimwe
+- Diane Ingabire
+- Willie Daniels
+- Eric Nyuma Jr.
+- Samwel Dushime
 
 ## Contributions
 
 Every team member has contributed to this project by implementing and testing the regular expressions for data extraction.
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+
+
+
