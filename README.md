@@ -42,7 +42,7 @@ We have used Python to implement the data extraction. In the source code, you wi
 - Diane Ingabire
 - Willie Daniels
 - Eric Nyuma Jr.
-- Samwel Dushime
+- Samuel Dushime
 - Josiane Ishimwe
 
 ## Contributions
