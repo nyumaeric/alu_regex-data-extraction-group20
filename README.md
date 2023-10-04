@@ -38,11 +38,12 @@ We have used Python to implement the data extraction. In the source code, you wi
 2. Run the Python scripts for data extraction.
 
 ## Team Members
--Josiane Ishimwe
+
 - Diane Ingabire
 - Willie Daniels
 - Eric Nyuma Jr.
 - Samwel Dushime
+- Josiane Ishimwe
 
 ## Contributions
 
